@@ -1,5 +1,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
 
 # Custom for Visual Studio
 *.cs     diff=csharp
